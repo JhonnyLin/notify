@@ -1,0 +1,63 @@
+body{
+    margin:  0 auto;
+}
+header{
+    display: flex;
+    background-image: url(../imagem/banner.png);
+    border-top-width: 8px;
+    border-top-style: solid;
+    border-top-color: green;
+}
+#sobre{
+    width: 58%;
+}
+#titulo{
+    display: flex;
+    height: 35%;
+    width: 100%;
+    align-items: flex-end;
+    margin-top: 2%;
+}
+h1{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    padding-left: 35%;
+    font-size: 27pt;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+#text{
+    padding-left: 35%;
+    color: white;
+    margin: 0 auto;
+    font-size: 18pt;
+}
+#imgs{
+    display: flex;
+    padding-left: 35%;
+}
+#imgs a{
+    margin-right: 5%;
+    background-color: black;
+    opacity: 0.3;
+    padding: 2%;
+    border-radius: 100%;
+}
+#imgs a:hover{
+ background: green;
+}
+#img1{
+    display: flex;
+    align-items: flex-end;  
+}
+#im11{
+    height: 85%;
+}
+
+
+
+
+
+ 
+
+ 
